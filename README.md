@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-The dataset used is the Oxford 17 Category Flower Dataset, which consists of images of flowers categorized into 17 species. The data is split into training, validation, and test sets.
+The dataset used is the Oxford 17 Category Flower Dataset, which consists of images of flowers categorized into 17 species.
 
 ## Installation
 
