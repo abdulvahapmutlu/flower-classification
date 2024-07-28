@@ -55,8 +55,6 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
-4. Download the dataset and place it in the `data` directory.
-
 ## Usage
 
 ### Training the Model
